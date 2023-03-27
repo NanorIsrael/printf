@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1673958607 source:c:\users\user\documents\cprog\hello\main.c
+	<stdbool.h>
+	<stdarg.h>
+	"main.h"
+	<stddef.h>
+	<stdio.h>
+
+1673889471 source:c:\users\user\documents\cprog\hello\_putchar.c
+	<unistd.h>
+
+1673889471 c:\users\user\documents\cprog\hello\main.h
+
